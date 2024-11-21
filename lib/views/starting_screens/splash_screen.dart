@@ -108,7 +108,7 @@ class _SplashScreenState extends State<SplashScreen> {
                         appTextWeight: FontWeight.w100,
                       ),
                       PrimaryTxtComponent(
-                        appText: 'Lubna Mehboob',
+                        appText: 'Attiqa Ambar',
                         appTextWeight: FontWeight.w900,
                       ),
                     ],
