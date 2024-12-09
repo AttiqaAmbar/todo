@@ -104,7 +104,7 @@ class _SplashScreenState extends State<SplashScreen> {
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     children: [
                       PrimaryTxtComponent(
-                        appText: 'Developed by',
+                        appText: 'Developed By',
                         appTextWeight: FontWeight.w100,
                       ),
                       PrimaryTxtComponent(
